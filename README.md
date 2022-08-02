@@ -1,4 +1,5 @@
-### Hi there 👋
+<img width="370" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://user-images.githubusercontent.com/107195049/182455438-b8d30ad4-c796-4136-b09c-4146341e1772.png">
+
 
 <!--
 **shannonrylee/ShannonRylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some screenshots of my current project Chinch vs. Mountain: 
+Start Game:
+<img width="1401" alt="Screen Shot 2022-08-02 at 3 03 33 PM" src="https://user-images.githubusercontent.com/107195049/182454994-f7753cf2-4ee5-4a74-b60e-1bccc62212a2.png">
+
+Chinchilla jumping over the mountain:
+<img width="1266" alt="Screen Shot 2022-08-02 at 3 03 47 PM" src="https://user-images.githubusercontent.com/107195049/182455006-22b9de0d-98ac-482f-93cc-b27400e10ef6.png">
+
+Chinchilla hitting the mountain:
+<img width="927" alt="Screen Shot 2022-08-02 at 3 04 17 PM" src="https://user-images.githubusercontent.com/107195049/182455012-6935ddc4-2e91-45e3-9d18-fe0d98895ac5.png">
