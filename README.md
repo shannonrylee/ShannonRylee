@@ -36,12 +36,3 @@ Full-Stack Software Developer
                       href="http://www.github.com/shannonrylee"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=shannonrylee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/shannonrylee"><img src="https://activity-graph.herokuapp.com/graph?username=shannonrylee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-Here are some screenshots of my current project Chinch vs. Mountain: 
-Start Game:
-<img width="1401" alt="Screen Shot 2022-08-02 at 3 03 33 PM" src="https://user-images.githubusercontent.com/107195049/182454994-f7753cf2-4ee5-4a74-b60e-1bccc62212a2.png">
-
-Chinchilla jumping over the mountain:
-<img width="1266" alt="Screen Shot 2022-08-02 at 3 03 47 PM" src="https://user-images.githubusercontent.com/107195049/182455006-22b9de0d-98ac-482f-93cc-b27400e10ef6.png">
-
-Chinchilla hitting the mountain:
-<img width="927" alt="Screen Shot 2022-08-02 at 3 04 17 PM" src="https://user-images.githubusercontent.com/107195049/182455012-6935ddc4-2e91-45e3-9d18-fe0d98895ac5.png">
